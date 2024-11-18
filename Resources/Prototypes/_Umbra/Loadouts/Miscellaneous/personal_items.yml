@@ -587,3 +587,16 @@
   - !type:PersonalItemLoadoutEffect
     character:
     - Ko Karaki
+
+
+
+# Steals-The-Buckshot's Jumpskirt
+- type: loadout
+  id: ClothingUniformJumpsuitSTB
+  storage:
+    back:
+    - ClothingUniformJumpsuitSTB
+  effects:
+  - !type:PersonalItemLoadoutEffect
+    character:
+    - Steals-The-Buckshot
